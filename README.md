@@ -1,3 +1,4 @@
+A 65% standard single layout PCB that supports both cherry and alps switches. Uses USB mini with no ESD protection diode. PCB has been tested and is working.
 ![alt text](https://github.com/EinShides/Maple65/blob/main/Maple65%20Render.png?raw=true)
 ![alt text](https://github.com/EinShides/Maple65/blob/main/Build.png?raw=true)
 Application: KiCad
